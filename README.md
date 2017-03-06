@@ -1,2 +1,2 @@
-# FremontBridge
-An exercise notebook from Jake Vanderplas
+# Fremont Bridge
+An exercise notebook from Jake Vanderplas.
